@@ -1,11 +1,11 @@
 {
-    "name": "pemuda_bangsa",
-    "short_name": "pemuda_bangsa",
+    "name": "Pemuda Pancasila",
+    "short_name": "pemuda_pancasila",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Pemuda Pancasila app By Yaomink",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
